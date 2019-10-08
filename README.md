@@ -1,2 +1,2 @@
 # Shining
-my frist repository 
+my frist repository !
